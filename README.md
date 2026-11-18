@@ -1,4 +1,4 @@
-# SMU AI Training · 팀 프로젝트
+# SMU AIRAG · Text2SQL · LangGraph 기반 데이터 조회 에이전트 · 팀 프로젝트
 
 > RAG · Text2SQL · LangGraph 기반 데이터 조회 에이전트
 
